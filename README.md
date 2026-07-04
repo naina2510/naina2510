@@ -33,3 +33,16 @@ B.Tech CSE (Data Science & Machine Learning)
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 </p>
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=naina2510&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+  <img height="170" src="https://streak-stats.demolab.com?user=naina2510&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naina2510&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
