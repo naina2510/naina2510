@@ -5,7 +5,7 @@
 ### 🎓 B.Tech Computer Science & Engineering
 ### 📊 Specialization in Data Science & Machine Learning
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=3B82F6&center=true&vCenter=true&width=950&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Analytics+Learner;Building+Real-World+Projects;Currently+Learning+LLMs+%26+Agentic+AI;Future+AI+Engineer+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=3B82F6&center=true&vCenter=true&width=950&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Analytics+Learner;Building+Real-World+Projects;Currently+Learning+LLMs+%26+Agentic+AI;Future+AI+Engineer" alt="Typing SVG" />
 
 <br>
 
