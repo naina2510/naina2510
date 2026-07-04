@@ -101,13 +101,64 @@ https://github.com/naina2510/Heart2Heart
 
 ---
 
-# 🏆 GitHub Trophies
+---
+
+## 🎯 Current Focus
+
+- 🤖 Learning **Large Language Models (LLMs)**
+- ⚡ Exploring **Agentic AI**
+- 🧠 Building **AI-powered Python Projects**
+- 📊 Practicing **Data Analytics & Tableau**
+- 🌱 Improving **Data Structures & Algorithms**
+- 🚀 Preparing for **AI/ML Internship Opportunities**
+---
+---
+
+## 📂 Featured Projects
+
+### 🎯 Quiz App with Performance Analytics
+✔ Desktop Quiz Application using Python
+
+✔ Interactive Admin Dashboard
+
+✔ Performance Analytics with Matplotlib
+
+✔ Excel Export Feature
+
+✔ User Authentication
+
+### 🤖 Gemini AI Chatbot
+
+✔ AI Chatbot using Google Gemini API
+
+✔ Python
+
+✔ Prompt Engineering
+
+### 📊 Tableau Dashboards
+
+✔ COVID-19 Dashboard
+
+✔ Customer Churn Dashboard
+
+✔ iPhone Sales Dashboard
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naina2510&theme=algolia&row=1&column=6"/>bg=true&margin-w=10" />
-</p>
+<a href="https://www.linkedin.com/in/naina-dadheech">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="mailto:nainadadheech25@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/naina2510">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 # 📈 Contribution Graph
 
