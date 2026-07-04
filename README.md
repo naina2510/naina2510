@@ -1,178 +1,161 @@
-<h1 align="center">Hi 👋, I'm Naina Dadheech</h1>
+<div align="center">
 
-<h3 align="center">
-B.Tech CSE (Data Science & Machine Learning)
-</h3>
+# Hi 👋, I'm Naina Dadheech
 
-<h3 align="center">
-AI • Machine Learning • Python • Data Analytics Enthusiast
-</h3>
+### 🎓 B.Tech CSE (Data Science & Machine Learning)
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Analytics+Learner;Building+Real-World+Projects;Currently+Learning+LLMs+%26+Agentic+AI;Future+AI+Engineer+🚀" alt="Typing SVG" />
 
-# 👩‍💻 About Me
-
-- 🎓 B.Tech in Computer Science & Engineering (Data Science & Machine Learning)
-- 💻 Passionate about Python, AI, Machine Learning and Data Analytics
-- 🌱 Currently learning **LLMs, Agentic AI and Generative AI**
-- 🚀 Building real-world Python and AI Projects
-- 📊 Interested in Data Visualization with Tableau
-- 🎯 Goal: Become an AI Engineer and contribute to impactful AI solutions
+</div>
 
 ---
 
-# 🛠 Tech Stack
+## 👩‍💻 About Me
 
-### Programming Languages
+🎓 B.Tech student specializing in **Data Science & Machine Learning**
 
-<p align="center">
+💻 Passionate about **Python, Artificial Intelligence, Machine Learning, and Data Analytics**
 
-<img src="https://skillicons.dev/icons?i=python,html,css,mysql,git,github,vscode"/>
+🌱 Currently learning **LLMs, Agentic AI, and Generative AI**
 
-</p>
+🚀 Love building real-world projects that solve practical problems
 
-### Libraries & Tools
+📊 Interested in Data Visualization using **Tableau**
 
-<p align="center">
+🎯 **Career Goal:** Become an AI Engineer and build impactful AI-powered applications.
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,mysql,sqlite,html,css,js,jupyter" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-
-</p>
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 📌 Quiz App with Performance Analysis
+### 🎯 Quiz App with Performance Analysis
+✔ Python • CustomTkinter • Pandas • Matplotlib • Excel
 
-✔ Python
+A desktop quiz application featuring performance analysis, an admin dashboard, analytics, and Excel-based result management.
 
-✔ CustomTkinter
-
-✔ Pandas
-
-✔ Matplotlib
-
-✔ Excel Integration
-
-🔗 https://github.com/naina2510/Quiz-App-Analysis
+🔗 **Repository:**  
+https://github.com/naina2510/Quiz-App-Analysis
 
 ---
 
-## 🤖 Gemini AI Chatbot
+### 🤖 Gemini AI Chatbot
 
-✔ Gemini API
+An AI chatbot powered by the Gemini API with an interactive user interface.
 
-✔ Python
-
-✔ Google AI Studio
-
-🔗 https://github.com/naina2510/gemini-chatbot
+🔗 **Repository:**  
+https://github.com/naina2510/gemini-chatbot
 
 ---
 
-## ❤️ Heart2Heart
+### ❤️ Heart2Heart
 
-AI Healthcare Chatbot
+A healthcare chatbot focused on providing an interactive user experience.
 
-✔ HTML
-
-✔ CSS
-
-✔ JavaScript
-
-🔗 https://github.com/naina2510/Heart2Heart
+🔗 **Repository:**  
+https://github.com/naina2510/Heart2Heart
 
 ---
 
-## 📊 Tableau Dashboards
+### 📊 Tableau Dashboards
 
-### 📱 iPhone Sales Dashboard
+📱 iPhone Sales Dashboard
 
-https://github.com/naina2510/iPhone-Sales-Tableau-Dashboard
+📈 Telco Customer Churn Dashboard
 
-### 📈 Customer Churn Dashboard
-
-https://github.com/naina2510/Telco-Customer-Churn-Tableau-Dashboard
-
-### 🦠 COVID-19 Dashboard
-
-https://github.com/naina2510/COVID-19-Tableau-Dashboard
+🦠 COVID-19 Dashboard
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=naina2510&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=naina2510&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naina2510&theme=tokyonight"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naina2510&theme=github_dark"/>
 
-</p>
+<br><br>
 
----
+<img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naina2510&theme=github_dark"/>
 
-# 📈 Top Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naina2510&layout=compact&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=naina2510&theme=algolia&row=1&column=6"/>
 
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=naina2510&theme=github-compact"/>
 
-</p>
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+- 🤖 Large Language Models (LLMs)
+- ⚡ Agentic AI
+- 🧠 Generative AI
+- 📊 Machine Learning
+- 🐍 Advanced Python
 
 ---
 
 # 📫 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/naina-dadheech">
 
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </a>
 
 <a href="mailto:nainadadheech25@gmail.com">
 
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 </a>
 
-</p>
+</div>
 
 ---
 
-<h3 align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile ⭐
+### ⭐ Thank you for visiting my profile! ⭐
 
-</h3>
+*"Keep learning, keep building, and keep growing."* 🚀
+
+</div>
