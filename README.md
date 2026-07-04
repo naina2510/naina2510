@@ -17,3 +17,17 @@ B.Tech CSE (Data Science & Machine Learning)
 - 🚀 Building real-world Python and AI projects
 - 📊 Interested in Data Visualization with Tableau
 - 🎯 Goal: Become an AI Engineer and contribute to impactful AI solutions
+  
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql,sqlite,html,css" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Tableau-005571?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
