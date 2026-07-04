@@ -8,6 +8,7 @@
 
 </div>
 
+---
 ## 👩‍💻 About Me
 
 🎓 B.Tech student specializing in **Data Science & Machine Learning**
