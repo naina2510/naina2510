@@ -38,11 +38,11 @@ B.Tech CSE (Data Science & Machine Learning)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=naina2510&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naina2510&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-  <img height="170" src="https://streak-stats.demolab.com?user=naina2510&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=naina2510&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naina2510&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naina2510&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
