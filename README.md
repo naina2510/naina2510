@@ -1,15 +1,12 @@
 <div align="center">
 
-# Hi 👋, I'm Naina Dadheech
+<h1>Hi 👋, I'm Naina Dadheech</h1>
 
-### 🎓 B.Tech CSE (Data Science & Machine Learning)
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Analytics+Learner;Building+Real-World+Projects;Currently+Learning+LLMs+%26+Agentic+AI;Future+AI+Engineer+🚀" alt="Typing SVG" />
-</p>
+<h3>🎓 B.Tech CSE (Data Science & Machine Learning)</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Analytics+Learner;Building+Real-World+Projects;Currently+Learning+LLMs+%26+Agentic+AI;Future+AI+Engineer)](https://git.io/typing-svg)
+
 </div>
-
----
-
 ## 👩‍💻 About Me
 
 🎓 B.Tech student specializing in **Data Science & Machine Learning**
