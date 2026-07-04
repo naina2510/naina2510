@@ -3,9 +3,9 @@
 # Hi 👋, I'm Naina Dadheech
 
 ### 🎓 B.Tech CSE (Data Science & Machine Learning)
-
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Analytics+Learner;Building+Real-World+Projects;Currently+Learning+LLMs+%26+Agentic+AI;Future+AI+Engineer+🚀" alt="Typing SVG" />
-
+</p>
 </div>
 
 ---
