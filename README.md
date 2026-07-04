@@ -103,10 +103,8 @@ https://github.com/naina2510/Heart2Heart
 
 # 🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naina2510&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=naina2510&theme=algolia&row=1&column=6"/>bg=true&margin-w=10" />
 </p>
 
 ---
